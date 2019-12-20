@@ -1,0 +1,46 @@
+{
+  "name": "common-chatbot-code",
+  "version": "1.0.0",
+  "description": "Get started with this starting code format to make chatbots. Feel free to change according to your need.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chatbot",
+    "website",
+    "chatbot",
+    "nlp"
+  ],
+  "author": "ThoughtNext Technology",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.0.1",
+    "cors": "2.8.5",
+    "dialogflow": "^0.7.0",
+    "dotenv": "6.2.0",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "helmet": "3.15.0",
+    "jquery": "^3.4.1",
+    "jsonwebtoken": "^8.4.0",
+    "mailgun-js": "^0.22.0",
+    "mollie-api-node": "^1.4.0",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.26",
+    "mongoose": "5.4.3",
+    "nodemailer": "^6.1.1",
+    "path": "^0.12.7",
+    "pdfkit": "^0.10.0",
+    "pug": "^2.0.4",
+    "request": "^2.88.0",
+    "socket.io": "2.2.0",
+    "stripe": "^7.14.0",
+    "text-signature": "^1.1.2",
+    "util": "0.11.1"
+  },
+  "devDependencies": {
+    "standard": "12.0.1"
+  }
+}
