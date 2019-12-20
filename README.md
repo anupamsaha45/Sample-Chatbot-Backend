@@ -9,9 +9,7 @@ To test and make changes to this app locally, follow the below instructions.
 
 3. Run ```npm install``` to install all the project dependencies.
 
-4. Run ```node app``` in the terminal to run it.
-
-Or you can also run ```nodemon``` to run the project (the recommended way).
+4. Run ```node app``` in the terminal to run it.(Or you can also run ```nodemon``` to run the project (the recommended way)).
 
 5. Replace mongoUrl in ```/config/development.js```
 
