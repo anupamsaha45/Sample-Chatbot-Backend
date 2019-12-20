@@ -5,7 +5,7 @@ To test and make changes to this app locally, follow the below instructions.
 
 1. Clone this repository using Git.
 
-2. Open Terminal and cd into the project folder. For example if folder created is backend then, ```cd Sample-chatbot-Backend```
+2. Open Terminal and cd into the project folder. For example if folder created is Sample-chatbot-Backend-master then, ```cd Sample-chatbot-Backend-master```
 
 3. Run ```npm install``` to install all the project dependencies.
 
