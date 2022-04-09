@@ -27,7 +27,7 @@
     "jsonwebtoken": "^8.4.0",
     "mailgun-js": "^0.22.0",
     "mollie-api-node": "^1.4.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.26",
     "mongoose": "5.4.3",
     "nodemailer": "^6.1.1",
