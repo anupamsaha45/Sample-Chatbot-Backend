@@ -29,7 +29,7 @@
     "mollie-api-node": "^1.4.0",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.26",
-    "mongoose": "5.4.3",
+    "mongoose": "5.7.5",
     "nodemailer": "^6.1.1",
     "path": "^0.12.7",
     "pdfkit": "^0.10.0",
